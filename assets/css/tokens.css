@@ -1,0 +1,28 @@
+/* Measured design of the business's current website (rebuild.vn design tokens). */
+:root {
+  --color-primary: #00d4a3;
+  --color-secondary: #1f93ff;
+  --color-accent: #ef4444;
+  --color-background: #ffffff;
+  --color-bg: #ffffff;
+  --color-surface: #f6f7f9;
+  --color-text: #09243e;
+  --color-muted: #5e758d;
+  --color-border: #e0e6eb;
+  --color-link: #00d4a3;
+  --font-body: "Inter", system-ui, sans-serif;
+  --font: "Inter", system-ui, sans-serif;
+  --font-heading: "Inter", system-ui, sans-serif;
+  --font-size-body: 14px;
+  --font-size-h1: 72px;
+  --font-size-h2: 44px;
+  --font-size-h3: 19.2px;
+  --radius-sm: 4px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-pill: 9999px;
+  --radius: 12px;
+  --shadow: rgba(0, 0, 0, 0.06) 0px 2px 8px 0px;
+  --container: 1280px;
+  --space-unit: 4px;
+}
